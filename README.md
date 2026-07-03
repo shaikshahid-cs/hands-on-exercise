@@ -1,9 +1,9 @@
 # Training Progress
 
-**Name:** Yadlapalli Sai AbhiRam  
+**Name:** SHAIK SHAHID  
 **Training:** Cognizant Java FSE Skill  
-**SuperSet ID:** 8005130  
-**Email:** saiabhiram102@gmail.com
+**SuperSet ID:** 8004061 
+**Email:** shaik.shahid0789@gmail.com
 
 ## Week-wise Topics
 
