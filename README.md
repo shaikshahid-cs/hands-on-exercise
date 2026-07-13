@@ -36,4 +36,6 @@
 - Code Quality and Sonarqube
 - Microservices with Spring Boot 3 and Cloud
 
-**Completed on:** 
+**Completed on:** 13 july 2026
+
+---
